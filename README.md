@@ -5,8 +5,8 @@ It’s simple, you’ll need to use CSS code that can be inserted into the Eleme
 
 ```
 .elementor-tabs-wrapper {
-display: flex;
-justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 ```
 
